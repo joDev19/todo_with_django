@@ -1,0 +1,8 @@
+# ignore project/project
+project/project
+# ignore __init__.py
+**/__init__.py
+# ignore env folder
+env
+# ignore .vscode
+.vscode
