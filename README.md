@@ -5,8 +5,8 @@ This api have for goal to simulate the todo list app functionality using DRF.
 My classes:
 * Todo
   - Serializer
-    It allow me to parse data into Model or json format
+      It allow me to parse data into Model or json format
   - model 
-    ....
+      ....
   - views:
-    For this example I use class model
+      For this example I use class model
